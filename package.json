@@ -1,0 +1,16 @@
+{
+  "name": "gulp-jcconcat",
+  "version": "1.0.0",
+  "description": "将css或js文件打包，以及将css打包进js",
+  "main": "gulp-JCconcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liguohui01@baidu.com",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
